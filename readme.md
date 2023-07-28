@@ -16,3 +16,5 @@ Untracked files:
         src/a/rapport/Capture.JPG
 
 no changes added to commit (use "git add" and/or "git commit -a")<p>
+
+<img src="rapport\1.JPG">
