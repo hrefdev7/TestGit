@@ -20,3 +20,13 @@
 
 <h4>Verification changement avec git status </h4>
 <img src="src/a/rapport/ch.JPG">
+
+<h4>Ajout branch git  </h4>
+<img src="src/a/rapport/branch.JPG">
+
+<h4>Modification Ajout des Fichier </h4>
+<img src="src/a/rapport/Capture.JPG">
+
+<h4>Comit et push</h4>
+<img src="src/a/rapport/modf.JPG">
+
